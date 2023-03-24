@@ -8,7 +8,7 @@ metadata:
 managedNodeGroups:
   - name: workers
     instanceType: t2.micro
-    privateNetworking: true
+   # privateNetworking: true
     desiredCapacity: 2
     minSize: 2
     maxSize: 4
