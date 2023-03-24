@@ -208,4 +208,5 @@ _aws configure output must be configured json_
 eksctl delete cluster -f cluster.yml
 
 ```
-## [update-cluster-config] (https://docs.aws.amazon.com/cli/latest/reference/eks/update-cluster-config.html)
+---
+# [update-cluster-config](https://docs.aws.amazon.com/cli/latest/reference/eks/update-cluster-config.html)
