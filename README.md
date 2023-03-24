@@ -200,5 +200,5 @@ pip3 install awscli --upgrade --user
 _aws configure output must be configured json_
 
 ---
-# Step5: Run custer.yml file
+# Step5: Run cluster.yml file
     eksctl create cluster -f cluster.yml
