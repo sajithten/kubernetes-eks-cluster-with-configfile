@@ -202,3 +202,9 @@ _aws configure output must be configured json_
 ---
 # Step5: Run cluster.yml file
     eksctl create cluster -f cluster.yml
+
+# To delete this cluster, run:
+```
+eksctl delete cluster -f cluster.yaml
+
+```
